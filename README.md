@@ -12,7 +12,7 @@ go farther down instead of stopping at the last element by using invisible unico
 
  "⠀" (U+2800)  BRAILLE PATTERN BLANK
 
- and incasing them in "	<p>⠀</p> " paragraph tags.
+ and incasing them in "	<p></p> " paragraph tags.
 
  There's probably a better way to do it, and I'm sure that someone will tell me immediately after I submit this. It's a pretty hacky way to do it, after all.
 
